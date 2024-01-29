@@ -12,6 +12,12 @@
   <img src="https://github.com/hadi-rahimii/hadi-rahimii/blob/main/icons8-instagram.gif?raw=true" />
 </a> <a href="https://t.me/Hadiioo">
   <img src="https://github.com/hadi-rahimii/hadi-rahimii/blob/main/icons8-telegram.gif?raw=true" />
+</a>  <a href="https://0hadi.rahimi@gmail.com">
+  <img src="https://github.com/hadi-rahimii/hadi-rahimii/blob/main/icons8-gmail%20(1).gif?raw=true" />
 </a>
+
+
+
+
 
 
