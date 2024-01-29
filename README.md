@@ -10,5 +10,8 @@
 ## you can cennct me by 
 <a href="https://www.instagram.com/h4di-rahimi">
   <img src="https://github.com/hadi-rahimii/hadi-rahimii/blob/main/icons8-instagram-96.png?raw=true" />
+</a> <a href="https://www.instagram.com/h4di-rahimi">
+  <img src="https://github.com/hadi-rahimii/hadi-rahimii/blob/main/icons8-telegram.gif?raw=true" />
 </a>
+
 
