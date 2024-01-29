@@ -17,6 +17,10 @@
 </a>
 
 
+____
+```javascript
+const=[trust,setTrust]= useState(true)
+```
 
 
 
