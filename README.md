@@ -19,7 +19,7 @@
 
 ____
 ```javascript
-const=[trust,setTrust]= useState(true)
+const [trust,setTrust]= useState(true)
 ```
 
 
